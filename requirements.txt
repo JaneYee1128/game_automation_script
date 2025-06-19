@@ -1,0 +1,14 @@
+# 基本依赖
+opencv-python>=4.5.0  # 用于图像处理和分析
+numpy>=1.20.0  # 用于数学计算
+pyautogui>=0.9.53  # 用于屏幕捕获和模拟鼠标操作
+pillow>=8.0.0  # 用于图像处理
+pynput>=1.7.0  # 用于监听键盘和鼠标事件
+python-mss>=6.1.0  # 用于高性能屏幕捕获
+pytesseract>=0.3.8  # 用于OCR文字识别
+scikit-image>=0.18.0  # 用于高级图像处理
+scikit-learn>=0.24.0  # 用于机器学习算法
+
+# 可选依赖（根据需要安装）
+# adb-shell>=0.4.0  # 用于Android设备控制
+# pymobiledevice3>=1.0.0  # 用于iOS设备控制
